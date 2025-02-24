@@ -3,7 +3,8 @@
 # Enhancing Spiking Neural Networks for FMNIST Classification Optimisation Techniques and Finetuning Strategies
 
 📌 Overview
-This repository contains the research and implementation of Spiking Neural Networks (SNNs) for classifying the Fashion MNIST (FMNIST) dataset. The study explores various optimisation techniques and fine-tuning strategies to enhance the performance of SNNs, comparing their effectiveness against traditional ANN models.
+
+This repository contains the research and implementation of Spiking Neural Networks (SNNs) for classifying the Fashion MNIST (FMNIST) dataset which was a part of my Master's Thesis. The study explores various optimisation techniques and fine-tuning strategies to enhance the performance of SNNs, comparing their effectiveness against traditional ANN models.
 
 📄 Thesis Details
 Author: Aditya
