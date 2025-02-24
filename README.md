@@ -1,1 +1,1 @@
-# AI-Master-s-Thesis
+# AI-Master's-Thesis
